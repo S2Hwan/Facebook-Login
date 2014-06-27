@@ -2,21 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>URL Types</key>
-	<array>
-		<dict>
-			<key>Document Role</key>
-			<string></string>
-			<key>URL Schemes</key>
-			<array>
-				<string>fb 1429707113983216</string>
-			</array>
-		</dict>
-	</array>
-	<key>FacebookDisplayName</key>
-	<string>Sample Login</string>
-	<key>FacebookAppID</key>
-	<string>1429707113983216</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -41,6 +26,10 @@
 	<true/>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
+	<key>FacebookAppID</key>
+	<string>1429707113983216</string>
+	<key>FacebookDisplayName</key>
+	<string>Sample Login</string>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>armv7</string>
@@ -50,6 +39,17 @@
 		<string>UIInterfaceOrientationPortrait</string>
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>URL Types</key>
+	<array>
+		<dict>
+			<key>Document Role</key>
+			<string></string>
+			<key>URL Schemes</key>
+			<array>
+				<string>fb1429707113983216</string>
+			</array>
+		</dict>
 	</array>
 </dict>
 </plist>

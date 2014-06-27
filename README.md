@@ -14,13 +14,13 @@ Facebook Login system;
  #Save the app ID to your project's .plist.
  
  #Saving process:
-      *FacebookAppID(String): 164688418131135
-      *FacebookDisplayName(String): Name of facebook dev app.
-      *URL types(Array)
-         *Item 0(Dictionary)
-            *URL Schemes(Array)
-               *Item 0(String): fb164688418131135
-            *Document Role(String)
+      *FacebookAppID(String): 164688418131135<br>
+      *FacebookDisplayName(String): Name of facebook dev app.<br>
+      *URL types(Array)<br>
+         *Item 0(Dictionary)<br>
+            *URL Schemes(Array)<br>
+               *Item 0(String): fb164688418131135<br>
+            *Document Role(String)<br>
             
  #Create an Test User for your App.
 

@@ -23,6 +23,7 @@
     
     [self toggleHiddenState:YES];
     [[self lblLoginStatus] setText:@""];
+    self.loginButton.readPermissions = @[@"public_profile", @"email"];
 }
 
 

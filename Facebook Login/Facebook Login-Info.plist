@@ -43,11 +43,11 @@
 	<key>CFBundleURLTypes</key>
 	<array>
 		<dict>
-			<key>CFBundleURL Schemes</key>
+			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>fb1429707113983216</string>
 			</array>
-        </dict>
+		</dict>
 	</array>
 </dict>
 </plist>

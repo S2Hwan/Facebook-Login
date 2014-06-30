@@ -18,7 +18,7 @@ Facebook Login system;
       *FacebookDisplayName(String): Name of facebook dev app.<br>
       *URL types(Array)<br>
          *Item 0(Dictionary)<br>
-            *URL Schemes(Array)<br>
+            *URLSchemes(Array)<br>
                *Item 0(String): fb164688418131135<br>
             *Document Role(String)<br>
             

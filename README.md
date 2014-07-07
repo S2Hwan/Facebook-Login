@@ -26,8 +26,8 @@ Facebook Login system;
 
 Screenshots:
 
-<img src="https://github.com/bilalarslan1993/Facebook-Login/raw/master/Images/img1.png" height="590" width="322">&nbsp;&nbsp;
-<img src="https://github.com/bilalarslan1993/Facebook-Login/raw/master/Images/img2.png" height="590" width="322"><br><br><hr>
+<img src="https://github.com/ArslanBilal/Facebook-Login/raw/master/Images/img1.png" height="590" width="322">&nbsp;&nbsp;
+<img src="https://github.com/ArslanBilal/Facebook-Login/raw/master/Images/img2.png" height="590" width="322"><br><br><hr>
 
-<img src="https://github.com/bilalarslan1993/Facebook-Login/raw/master/Images/img3.png" height="590" width="322">&nbsp;&nbsp;
-<img src="https://github.com/bilalarslan1993/Facebook-Login/raw/master/Images/img4.png" height="590" width="322">&nbsp;&nbsp;
+<img src="https://github.com/ArslanBilal/Facebook-Login/raw/master/Images/img3.png" height="590" width="322">&nbsp;&nbsp;
+<img src="https://github.com/ArslanBilal/Facebook-Login/raw/master/Images/img4.png" height="590" width="322">&nbsp;&nbsp;

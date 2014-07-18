@@ -22,9 +22,6 @@ Facebook Login system;
                *Item 0(String): fb164688418131135
             *Document Role(String)
 
-            
- #Create an Test User for your App.
-
 Screenshots:
 
 <img src="https://github.com/ArslanBilal/Facebook-Login/raw/master/Images/img1.png" height="590" width="322">&nbsp;&nbsp;

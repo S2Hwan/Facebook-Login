@@ -17,10 +17,10 @@ Facebook Login system;
   1. FacebookAppID(String): 164688418131135
   2. FacebookDisplayName(String): Name of facebook dev app.
   3.  URL types(Array)
-         *Item 0(Dictionary)
-            *URLSchemes(Array)
-               *Item 0(String): fb164688418131135
-            *Document Role(String)
+     1. Item 0(Dictionary)
+     2. URLSchemes(Array)
+        1. Item 0(String): fb164688418131135
+     3. Document Role(String)
 
 Screenshots:
 
